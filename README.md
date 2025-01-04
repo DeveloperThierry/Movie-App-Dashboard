@@ -1,5 +1,5 @@
 ### 🎬 **Movie App Dashboard** 🎬
-
+![Preview](preview.png)
 The **Movie App Dashboard** is an interactive web application designed to help users discover and track their favorite movies. Built with **React**, this app allows users to search for movies, save their favorites, and access movie details in an intuitive dashboard interface. By using **APIs** to fetch real-time movie data and leveraging **localStorage** for persistent data, this app provides a seamless and personalized movie discovery experience.
 
 ---
